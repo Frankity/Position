@@ -1,0 +1,9 @@
+{
+	"Name": "Position",
+	"Authors": ["Frankity"],
+	"Description": "get the current transform from position of player in map",
+	"URL": "none",
+	"Version": "1",
+	"HasWebUI": "none",
+	"HasVeniceEXT": true
+}
